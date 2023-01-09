@@ -19,7 +19,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.15.6",
     "facebook-login": "^1.4.0",
-    "firebase-admin": "^7.2.0",
+    "firebase-admin": "^11.4.1",
     "mongoose": "^5.4.20",
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",
